@@ -1,4 +1,4 @@
-![3b1](https://github.com/Aakash0407/3b_CHAT_USING_TCP_SOCKETS/assets/118799103/500dce48-2664-4403-9d46-984f42b901cf)# 3b.CREATION FOR CHAT USING TCP SOCKETS
+# 3b.CREATION FOR CHAT USING TCP SOCKETS
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
